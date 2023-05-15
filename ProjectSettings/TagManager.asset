@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SpawnPoint
+  - Rooms
+  - item
+  - Selected_Item
+  - RoomsDict
+  - Selected_Inventory
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - StopMovement
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Bacground
+    uniqueID: 3098544749
+    locked: 0
+  - name: item
+    uniqueID: 3330095939
+    locked: 0
+  - name: Enemy
+    uniqueID: 628555225
+    locked: 0
+  - name: Player
+    uniqueID: 1557613133
+    locked: 0
+  - name: UI
+    uniqueID: 80804061
+    locked: 0
